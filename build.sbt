@@ -1,4 +1,4 @@
-name := "ParStackDesign"
+name := "threadsafestack"
 
 version := "0.1"
 
